@@ -12,7 +12,7 @@
 
 ## 사용 방법
 
-1. Python 을 해당 디렉토리 에서 open 합니다 
+1. Python file 을 해당 디렉토리 에서 open 합니다 
 
     (VSCode의 경우 ctrl+k, ctrl+o 하시면 됩니다)
 
